@@ -4,6 +4,7 @@
 public class Library {
     public static void main(String arg[]) {
     	System.out.println("hello world");
+    	/*good work*/
     }
     public boolean someLibraryMethod() {
     	return true;
