@@ -3,14 +3,11 @@
  */
 public class Library {
     public static void main(String arg[]) {
-<<<<<<< HEAD
     	System.out.println("hello world am godd");
     	/*good work*/
 /*ahsdoihdsa*/
     
-=======
-    	System.out.println("hello ");
->>>>>>> branch 'master' of https://github.com/kjiangab/lab8.git
+
     }
     public boolean someLibraryMethod() {
     	return true;
